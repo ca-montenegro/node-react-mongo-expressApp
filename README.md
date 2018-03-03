@@ -1,6 +1,6 @@
 # node_express_react
 
-Example node + express + react + Mongo app generate for the [WebDev class at uniandes](johnguerra.co/classes/webDevelopment_spring_2018/)
+Example node + express + react + Mongo app generate for the WebDev class at uniandes
 
 Express app generate using express generator and react app on the frontend folder with create-react-app.
 
